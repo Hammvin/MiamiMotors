@@ -1,0 +1,37 @@
+#TopSection{
+    background-image: url("../images/Lexus.jpg");
+    text-align: center;
+    color:white;
+    height:60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+}
+#image2{
+    background-image: url("../images/Rx350.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#signupTop{
+    margin-top: 20px;
+
+}
+.btn-outline-success{
+    background-color: black;
+}
+.alert{
+    text-align: center;
+}
+
+#label{
+    background-color: black;
+}
+.d-block{
+    height: 80vh;
+    border-radius: 5px;
+}
